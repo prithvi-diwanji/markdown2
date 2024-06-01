@@ -1,1 +1,2 @@
 # markdown2
+Venus's atmosphere is rich in primordial noble gases compared to that of Earth.[42] This enrichment indicates an early divergence from Earth in evolution. An unusually large comet impact[43] or accretion of a more massive primary atmosphere from solar nebula[44] have been proposed to explain the enrichment. However, the atmosphere is depleted of radiogenic argon, a proxy for mantle degassing, suggesting an early shutdown of major magmatism.
